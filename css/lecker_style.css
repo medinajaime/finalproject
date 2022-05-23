@@ -3096,7 +3096,7 @@ header {
 		margin-bottom: 20px;
 	}	
 		.lec_lm_type_i_item_price:before {
-			content: "â€” ";
+			content: "";
 			display: inline-block;
 			margin-right: 10px;
 		}
