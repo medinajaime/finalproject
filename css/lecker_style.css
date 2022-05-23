@@ -2661,39 +2661,6 @@ header {
 		line-height: 30px;
 	}
 
-/*Reviews*/
-.lec_reviews_item {
-	-webkit-transition: all 0.2s;
-	-o-transition: all 0.2s;
-	transition: all 0.2s;
-	opacity: 0;
-}
-	.lec_reviews_item strong {
-		display: block;
-		margin-top: 20px;
-	}
-	.lec_reviews_item strong:before {
-		display: inline-block;
-		content: 'â€”';
-		margin-right: 10px;
-	}
-	.lec_reviews_item img {
-		width: 400px!important;
-		height: 400px;
-		display: inline-block!important;
-		overflow: hidden;
-	
-	}
-	.lec_svg {
-		display: none;
-	}
-.owl-item.active .lec_reviews_item {
-	opacity: 1;
-}
-.lec_svg_container {
-	
-
-}
 
 /*Animation Block*/
 .lec_animation_block {
