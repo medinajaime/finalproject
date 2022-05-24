@@ -32,7 +32,7 @@
 
 		$.ajax({
 			method: "POST",
-			url: "http://formspree.io/rodalermakov@gmail.com",
+			url: "jcpizzabenque@gmail.com",
 			data: dataString,
 			dataType: "json",
 			success: function() {
